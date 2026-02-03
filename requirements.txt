@@ -1,0 +1,7 @@
+google-genai
+pyaudio
+keyboard
+pyperclip
+pyautogui
+python-dotenv
+numpy
