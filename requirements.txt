@@ -1,6 +1,7 @@
 google-genai
 pyaudio
 keyboard
+pynput
 pyperclip
 pyautogui
 python-dotenv
